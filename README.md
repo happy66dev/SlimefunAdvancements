@@ -1,4 +1,4 @@
-# SlimefunAdvancements 粘液科技进度
+# SlimefunAdvancements 粘液科技进度 [魔改版]
 
 这是一个 Slimefun 附属，可以给 Slimefun 添加一个可配置的进度系统。
 
