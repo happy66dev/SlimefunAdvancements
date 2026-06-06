@@ -14,6 +14,7 @@ import java.util.ArrayList;
 import java.util.EnumMap;
 import java.util.List;
 
+@SuppressWarnings("deprecation")
 public class BlockBreakCriterionCompleter implements CriterionCompleter, Listener {
     EnumMap<Material, List<BlockBreakCriterion>> criteria = new EnumMap<>(Material.class);
 
