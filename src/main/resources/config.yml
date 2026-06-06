@@ -1,6 +1,3 @@
-# 启用自动更新
-auto-update: true
-
 # 将自定义进度添加到原版进度菜单中 (实验性功能)
 use-advancements-api: true
 
